@@ -1,6 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Ouael
+#### Full-Stack developer
+![Full-Stack developer](https://yt3.googleusercontent.com/0gkbJMXLDz-L4LGjKpBLm8uwKO_sS-vmMYw4vV7WVnTYS6PfTnzXOErP7Ygw3bFElw0CjuysCQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-I'm a passionate software developer with a knack for building elegant and interactive web applications using technologies like React and Node.js. I enjoy solving challenging problems and exploring various technologies, with a strong focus on backend development. I am skilled in both front-end and back-end development and have a particular interest in web scraping, where I take satisfaction in crafting efficient scripts to extract valuable data and automate tasks. Currently, I am diving deeper into the fascinating world of Artificial Intelligence, exploring machine learning applications, and actively seeking opportunities to collaborate on AI-powered projects.
+I'm a passionate software developer with a knack for building elegant and interactive web applications, I enjoy solving challenging problems and exploring various technologies.
 
-You can check out my linkedIn on https://www.linkedin.com/in/ouael-benamara-15aa03248/ .
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouaelbenamara)](https://github.com/anuraghazra/github-readme-stats)
+Skills: NODE JS / REACT / JS 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
