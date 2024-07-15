@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ouael
-#### Full-Stack developer
+#### Software Developer | Data Science Student
 ![Full-Stack developer](https://yt3.googleusercontent.com/0gkbJMXLDz-L4LGjKpBLm8uwKO_sS-vmMYw4vV7WVnTYS6PfTnzXOErP7Ygw3bFElw0CjuysCQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 ![GIF from Giphy](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
